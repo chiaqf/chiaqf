@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-### Skills
-C++    ⚡⚡⚡⚡
-
-Python ⚡⚡⚡⚡
-
-R      ⚡
-
-Matlab ⚡
-
-html   ⚡⚡
+### Tech Stack
+C++, Python, R, Matlab, html
 
 ### Fun Facts
-🌱 I’m currently learning more data analysis skills and ML
+🌱 I’m currently learning more data analysis skills
 
 👯 I’m looking to collaborate on data driven investment strategy
 
