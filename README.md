@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 ### Tech Stack
-C++, Python, R, Matlab, html
+C++, Python, R, Perl
 
-### Fun Facts
-🌱 I’m currently learning more data analysis skills
-
-👯 I’m looking to collaborate on data driven investment strategy
-
-📫 How to reach me: https://www.linkedin.com/in/chiaqf/
+https://www.linkedin.com/in/chiaqf/
 <!--
 **chiaqf/chiaqf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
